@@ -1,6 +1,6 @@
 # cli-tools
 
-## networl tools
+## network tools
 - geoip
 
 ## Working with files 
