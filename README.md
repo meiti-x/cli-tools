@@ -13,3 +13,5 @@
 - cowsay
 - forune
 - sl
+- clock
+- typespeed
